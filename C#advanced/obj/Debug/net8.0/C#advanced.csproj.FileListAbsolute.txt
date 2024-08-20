@@ -1,0 +1,14 @@
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\bin\Debug\net8.0\C#advanced.exe
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\bin\Debug\net8.0\C#advanced.deps.json
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\bin\Debug\net8.0\C#advanced.runtimeconfig.json
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\bin\Debug\net8.0\C#advanced.dll
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\bin\Debug\net8.0\C#advanced.pdb
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\C#advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\C#advanced.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\C#advanced.AssemblyInfo.cs
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\C#advanced.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\C#advanced.dll
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\refint\C#advanced.dll
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\C#advanced.pdb
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\C#advanced.genruntimeconfig.cache
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\ref\C#advanced.dll
