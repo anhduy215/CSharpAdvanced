@@ -12,3 +12,4 @@ C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\refin
 C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\C#advanced.pdb
 C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\C#advanced.genruntimeconfig.cache
 C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\ref\C#advanced.dll
+C:\Users\Acer\Downloads\src code\c#\C#advanced\C#advanced\obj\Debug\net8.0\C#advanced.sourcelink.json

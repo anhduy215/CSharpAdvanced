@@ -24,7 +24,7 @@ namespace advanced
         public void showList(String msg,List<Person> list) {
             Console.WriteLine(msg);
             foreach (Person p in list) { 
-            p.ToString() ;
+            Console.WriteLine(p.ToString());
             }
         }
     }
